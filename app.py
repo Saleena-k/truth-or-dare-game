@@ -16,7 +16,7 @@ squares = {
     2:  {"type": "Truth", "text": "2.whats the juiciest gossip you know abt me ?"},
     3:  {"type": "Dare",  "text": "3.Pretend you’re being interviewed after winning the World Championship of doing absolutely nothing"},
     4:  {"type": "Truth", "text": "4.What’s a first impression you had about me that turned out to be completely wrong? (Ik we both like talking abt this so)"},
-    5:  {"type": "Truth", "text": "5.if we were sitting in total silnce rn for 5 mins , what would u be thinking abt ?"},
+    5:  {"type": "Truth", "text": "5.if we were sitting in total silence rn for 5 mins , what would u be thinking abt ?"},
     6:  {"type": "Dare",  "text": "6.record ur fav paragraph of other persons eid wish but in ur language"},
     7:  {"type": "Truth", "text": "7.What’s the most ridiculous thing you’ve ever done because you were bored?"},
     8:  {"type": "Dare",  "text": "8.Invent three laws that would exist if you ruled the world"},
