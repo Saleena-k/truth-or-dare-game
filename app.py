@@ -320,7 +320,7 @@ footer {
 
 # ── Header ─────────────────────────────────────────────────────────────────────
 st.markdown('<div class="app-title">🐍 Truth or Dare 🪜</div>', unsafe_allow_html=True)
-st.markdown('<div class="app-sub">Snakes & Ladders Edition — Long Distance Edition ✈️</div>', unsafe_allow_html=True)
+st.markdown('<div class="app-sub">Snakes & Ladders Edition </div>', unsafe_allow_html=True)
 
 # ── Input ──────────────────────────────────────────────────────────────────────
 st.markdown('<div class="input-label">Which square did you land on?</div>', unsafe_allow_html=True)
